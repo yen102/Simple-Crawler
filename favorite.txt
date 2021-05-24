@@ -1,0 +1,7 @@
+49371   IObit Uninstaller 10 Pro - Unquoted Service Path - Windows local Exploit
+6789   Vivvo CMS 3.4 - Multiple Vulnerabilities - PHP webapps Exploit
+49518   Solaris 10 1/13 (SPARC) - &#039;dtprintinfo&#039; Local Privilege Escalation (3) - Solaris local Exploit
+1234   GNU Mailutils imap4d 0.6 (FreeBSD) - &#039;Search&#039; Remote Format String - BSD remote Exploit
+5678   CKGold Shopping Cart 2.5 - &#039;category_id&#039; SQL Injection - PHP webapps Exploit
+13793   Online Notebook Manager - SQL Injection - ASP webapps Exploit
+End of list!

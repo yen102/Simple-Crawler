@@ -1,0 +1,22 @@
+49371   IObit Uninstaller 10 Pro - Unquoted Service Path - Windows local Exploit
+123   Microsoft Windows - Workstation Service WKSSVC Remote (MS03-049) - Windows remote Exploit
+123   Microsoft Windows - Workstation Service WKSSVC Remote (MS03-049) - Windows remote Exploit
+2345   Mercur MailServer 5.0 SP3 - &#039;IMAP&#039; Remote Buffer Overflow (2) - Windows remote Exploit
+6789   Vivvo CMS 3.4 - Multiple Vulnerabilities - PHP webapps Exploit
+3456   Top Auction 1.0 - &#039;viewcat.php&#039; SQL Injection - PHP webapps Exploit
+49518   Solaris 10 1/13 (SPARC) - &#039;dtprintinfo&#039; Local Privilege Escalation (3) - Solaris local Exploit
+49518   Solaris 10 1/13 (SPARC) - &#039;dtprintinfo&#039; Local Privilege Escalation (3) - Solaris local Exploit
+49518   Solaris 10 1/13 (SPARC) - &#039;dtprintinfo&#039; Local Privilege Escalation (3) - Solaris local Exploit
+13   Chindi Server 1.0 - Denial of Service - Windows dos Exploit
+49123   Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers
+1234   GNU Mailutils imap4d 0.6 (FreeBSD) - &#039;Search&#039; Remote Format String - BSD remote Exploit
+4567   Jakarta Slide 2.1 RC1 - Remote File Disclosure - Multiple remote Exploit
+5678   CKGold Shopping Cart 2.5 - &#039;category_id&#039; SQL Injection - PHP webapps Exploit
+13793   Online Notebook Manager - SQL Injection - ASP webapps Exploit
+13793   Online Notebook Manager - SQL Injection - ASP webapps Exploit
+13794   Joomla! Component Jreservation 1.5 - SQL Injection / Cross-Site Scripting - Multiple webapps Exploit
+14078   Bilder Upload Script Datei Upload 1.09 - Arbitrary File Upload - PHP webapps Exploit
+14079   i-netsolution Job Search Engine - SQL Injection - PHP webapps Exploit
+14078   Bilder Upload Script Datei Upload 1.09 - Arbitrary File Upload - PHP webapps Exploit
+14078   Bilder Upload Script Datei Upload 1.09 - Arbitrary File Upload - PHP webapps Exploit
+End of list!
